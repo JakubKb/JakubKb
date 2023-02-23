@@ -4,7 +4,9 @@ Hi 👋 My name is Jakub
 Frontend developer
 ------------------
 
-Hello! My name is Jakub and I'm Learning Front-end development. I first started in 2021 When I decided to build a website using Html. I got really interested as I got further so I started learning more and more. Fast forwarding to this day - I'm currently working on improving my skills, by building projects for example from FronetndMentor My Main focus is getting started with backend, I want to be a Full-stack developer someday!
+Hello! My name is Jakub and I'm learning front-end development. I first started in 2021 when I decided to build a website using HTML. I got really interested as I progressed, so I started learning more and more.
+
+Fast forwarding to today - I'm currently working on improving my skills by building projects, for example from Frontend Mentor. My main focus is getting started with backend development because I want to become a full-stack developer someday!
 
 * 🖥️  See my portfolio at [My personal Website](http://jakubjustkooba.netlify.app/)
 * ✉️  You can contact me at [justkooba@gmail.com](mailto:justkooba@gmail.com)
