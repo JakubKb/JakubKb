@@ -8,7 +8,7 @@ Hello! My name is Jakub and I'm learning front-end development. I first started 
 
 Fast forwarding to today - I'm currently working on improving my skills by building projects, for example from Frontend Mentor. My main focus is getting started with backend development because I want to become a full-stack developer someday!
 
-* 🖥️  See my portfolio at [My personal Website](http://jakubjustkooba.netlify.app/)
+* 🖥️  See my portfolio at [my personal website](http://jakubjustkooba.netlify.app/)
 * ✉️  You can contact me at [justkooba@gmail.com](mailto:justkooba@gmail.com)
 * 🧠  I'm learning Vue.js
 * 🤝  I'm open to collaborating on Frontend Projects.
