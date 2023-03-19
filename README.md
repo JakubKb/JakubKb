@@ -13,8 +13,7 @@ Fast forwarding to today - I'm currently working on improving my skills by build
 * 🧠  I'm learning Vue.js
 * 🤝  I'm open to collaborating on Frontend Projects.
 
-<a href="https://www.github.com/JustKooba" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JustKooba?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills
 
