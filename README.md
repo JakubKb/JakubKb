@@ -10,7 +10,7 @@ Fast forwarding to today - I'm currently working on improving my skills by build
 
 * 🖥️  See my portfolio at [my personal website](http://jakubjustkooba.netlify.app/)
 * ✉️  You can contact me at [justkooba@gmail.com](mailto:justkooba@gmail.com)
-* 🧠  I'm learning Vue.js
+* 🧠  I'm learning Vue.js, SASS and partly react.
 * 🤝  I'm open to collaborating on Frontend Projects.
 
 
