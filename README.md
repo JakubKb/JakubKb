@@ -4,7 +4,7 @@ Hi 👋 My name is Jakub
 Frontend developer
 ------------------
 
-Hello! My name is Jakub and I'm learning front-end development. I first started in 2021 when I decided to build a website using HTML. I got really interested as I progressed, so I started learning more and more.
+Hello! My name is Jakub and I'm learning front-end development. I first started in 2022 when I decided to build a website using HTML. I got really interested as I progressed, so I started learning more and more.
 
 Fast forwarding to today - I'm currently working on improving my skills by building projects, for example from Frontend Mentor. My main focus is getting started with backend development because I want to become a full-stack developer someday!
 
